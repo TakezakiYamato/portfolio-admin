@@ -1,0 +1,6 @@
+# original
+.settings/
+# https://github.com/github/gitignore/blob/master/Maven.gitignore
+target/
+#DS_Store
+.DS_Store
