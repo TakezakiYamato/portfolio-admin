@@ -2,16 +2,13 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>skillUpload</title>
 </head>
 <body>
 <h1>
-	Hello world!
+	Skill Upload!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<form method="get" action="<%=request.getContextPath()%>/skillUpload">
-	<button type="submit">skill-upload</button>
-</form>
 </body>
 </html>
